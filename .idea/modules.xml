@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DrawTextDemo/app.iml" filepath="$PROJECT_DIR$/DrawTextDemo/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/PieViewDemo/pieviewdemo.iml" filepath="$PROJECT_DIR$/PieViewDemo/pieviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadarViewDemo/radarviewdemo.iml" filepath="$PROJECT_DIR$/RadarViewDemo/radarviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReviewCustomView.iml" filepath="$PROJECT_DIR$/ReviewCustomView.iml" />
     </modules>
   </component>
