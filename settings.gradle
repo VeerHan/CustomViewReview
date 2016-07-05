@@ -1,1 +1,1 @@
-include ':DrawTextDemo'
+include ':DrawTextDemo', ':PieViewDemo'
