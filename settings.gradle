@@ -1,1 +1,1 @@
-include ':DrawTextDemo', ':PieViewDemo', ':RadarViewDemo'
+include ':DrawTextDemo', ':PieViewDemo', ':RadarViewDemo', ':QQSportDemo'

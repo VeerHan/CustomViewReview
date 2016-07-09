@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DrawTextDemo/app.iml" filepath="$PROJECT_DIR$/DrawTextDemo/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PieViewDemo/pieviewdemo.iml" filepath="$PROJECT_DIR$/PieViewDemo/pieviewdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RadarViewDemo/radarviewdemo.iml" filepath="$PROJECT_DIR$/RadarViewDemo/radarviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawTextDemo/DrawTextDemo.iml" filepath="$PROJECT_DIR$/DrawTextDemo/DrawTextDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PieViewDemo/PieViewDemo.iml" filepath="$PROJECT_DIR$/PieViewDemo/PieViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQSportDemo/QQSportDemo.iml" filepath="$PROJECT_DIR$/QQSportDemo/QQSportDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QQSportDemo/QQSportDemoQQSportDemo.iml" filepath="$PROJECT_DIR$/QQSportDemo/QQSportDemoQQSportDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadarViewDemo/RadarViewDemo.iml" filepath="$PROJECT_DIR$/RadarViewDemo/RadarViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReviewCustomView.iml" filepath="$PROJECT_DIR$/ReviewCustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawTextDemo/app.iml" filepath="$PROJECT_DIR$/DrawTextDemo/app.iml" />
     </modules>
   </component>
 </project>
